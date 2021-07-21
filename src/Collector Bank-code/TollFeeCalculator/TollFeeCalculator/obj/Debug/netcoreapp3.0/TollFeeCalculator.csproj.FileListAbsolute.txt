@@ -1,0 +1,16 @@
+/Users/hamada/Desktop/TollFeeCalculator/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.csprojAssemblyReference.cache
+/Users/hamada/Desktop/TollFeeCalculator/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.AssemblyInfoInputs.cache
+/Users/hamada/Desktop/TollFeeCalculator/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.AssemblyInfo.cs
+/Users/hamada/Desktop/TollFeeCalculator/TollFeeCalculator/bin/Debug/netcoreapp3.0/TollFeeCalculator.deps.json
+/Users/hamada/Desktop/TollFeeCalculator/TollFeeCalculator/bin/Debug/netcoreapp3.0/TollFeeCalculator.dll
+/Users/hamada/Desktop/TollFeeCalculator/TollFeeCalculator/bin/Debug/netcoreapp3.0/TollFeeCalculator.pdb
+/Users/hamada/Desktop/TollFeeCalculator/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.dll
+/Users/hamada/Desktop/TollFeeCalculator/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.pdb
+/Users/hamada/Desktop/TollFeeCalculator__hamada_collector/TollFeeCalculator/bin/Debug/netcoreapp3.0/TollFeeCalculator.deps.json
+/Users/hamada/Desktop/TollFeeCalculator__hamada_collector/TollFeeCalculator/bin/Debug/netcoreapp3.0/TollFeeCalculator.dll
+/Users/hamada/Desktop/TollFeeCalculator__hamada_collector/TollFeeCalculator/bin/Debug/netcoreapp3.0/TollFeeCalculator.pdb
+/Users/hamada/Desktop/TollFeeCalculator__hamada_collector/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.csprojAssemblyReference.cache
+/Users/hamada/Desktop/TollFeeCalculator__hamada_collector/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.AssemblyInfoInputs.cache
+/Users/hamada/Desktop/TollFeeCalculator__hamada_collector/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.AssemblyInfo.cs
+/Users/hamada/Desktop/TollFeeCalculator__hamada_collector/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.dll
+/Users/hamada/Desktop/TollFeeCalculator__hamada_collector/TollFeeCalculator/obj/Debug/netcoreapp3.0/TollFeeCalculator.pdb

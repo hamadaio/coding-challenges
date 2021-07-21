@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TollFeeCalculator/1.0.0": {
+        "dependencies": {
+          "Nager.Date": "1.25.7"
+        },
+        "runtime": {
+          "TollFeeCalculator.dll": {}
+        }
+      },
+      "Nager.Date/1.25.7": {
+        "runtime": {
+          "lib/netstandard2.0/Nager.Date.dll": {
+            "assemblyVersion": "1.25.7.0",
+            "fileVersion": "1.25.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TollFeeCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nager.Date/1.25.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZlzSuuuAct8pxD5prtXowQrOubo3JuHCdZD/x9EWOX50JpujJwKVG6pGzyZ446WcYjA+rRvmCDGbkhjg5fC9iQ==",
+      "path": "nager.date/1.25.7",
+      "hashPath": "nager.date.1.25.7.nupkg.sha512"
+    }
+  }
+}
